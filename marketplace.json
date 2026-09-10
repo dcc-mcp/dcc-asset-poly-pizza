@@ -1,0 +1,19 @@
+{
+  "version": "1",
+  "entries": [
+    {
+      "name": "dcc-asset-poly-pizza",
+      "description": "Search and download licensed low-poly GLB models from Poly Pizza",
+      "dcc": ["maya", "blender", "houdini", "3dsmax", "unreal", "unity"],
+      "tags": ["asset", "poly-pizza", "low-poly", "glb", "download"],
+      "version": "0.1.0",
+      "min_core_version": "0.19.90",
+      "install": {
+        "type": "git",
+        "url": "https://github.com/dcc-mcp/dcc-asset-poly-pizza",
+        "ref": "main"
+      }
+    }
+  ]
+}
+
